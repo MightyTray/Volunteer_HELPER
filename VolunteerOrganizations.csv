@@ -1,0 +1,33 @@
+name,description,type,location,members
+Builders,Constructs homes for low-income families,Community Service,In-person,900
+Neighbors United,Organizes neighborhood clean-up and beautification projects,Community Service,In-person,600
+Food Drive ,Collects and distributes food to those in need,Community Service,In-person,800
+Community Helpers,Advocates for the rights and well-being of marginalized groups,Community Service,Virtual,550
+Homeless Care,Provides support and resources to individuals experiencing homelessness,Community Service,In-person,650
+Youth Helper,Matches mentors with at-risk youth for guidance and support,Community Service,Virtual,750
+Senior Helper,Offers companionship and assistance to isolated seniors,Community Service,Virtual,400
+Gardeners,Maintains community gardens and promotes sustainable urban agriculture,Community Service,In-person,550
+Green Earth,Promotes environmental conservation and sustainability,Environmental,Virtual,400
+Clean Water,Works to ensure clean and accessible water sources,Environmental,In-person,700
+Tree Planters,Plants trees to combat deforestation and promote green spaces,Environmental,In-person,900
+Sustainable Living,Encourages sustainable practices in daily life,Environmental,Virtual,600
+Wildlife Conservation,Focuses on the conservation and protection of wildlife,Environmental,In-person,750
+Ocean Cleanup,Organizes beach cleanups and marine conservation efforts,Environmental,In-person,650
+Green Scientists,Promotes innovation and technology for a greener future,Environmental,Virtual,850
+Recyclers,Advocates for recycling initiatives and waste reduction,Environmental,Virtual,500
+Global Health,Delivers medical care to underserved communities,Healthcare,In-person,400
+Health for All,Raises awareness about healthy lifestyles and wellness,Healthcare,Virtual,600
+Medical Relief,Provides medical assistance in disaster-stricken areas,Healthcare,In-person,80
+Mental Health,Advocates for mental health awareness and support,Healthcare,Virtual,800
+Health Education,Offers health education programs in underserved communities,Healthcare,In-person,900
+Nurses,Mobilizes nurses to provide healthcare services in remote areas,Healthcare,In-person,700
+Medical Research,Conducts research to advance medical knowledge and treatments,Healthcare,Virtual,90
+Wellness for everyone,Promotes overall wellness through education and resources,Healthcare,In-person,900
+Youth Empowerment,Empowers and mentors underprivileged youth,Youth,Virtual,800
+Youth Sports,Provides sports programs for disadvantaged youth,Youth,In-person,300
+Youth Education,Offers tutoring and educational support for students,Youth,Virtual,700
+Youth Arts,Promotes artistic expression and creativity among youth,Youth,In-person,900
+Youth Leadership,Develops leadership skills and civic engagement in youth,Youth,Virtual,550
+Career Readiness,Prepares youth for the workforce through skills training,Youth,Virtual,650
+Youth Mentors,Connects mentors with youth for guidance and mentorship,Youth,In-person,750
+STEM for Youth,Provides STEM education opportunities to underserved youth,Youth,In-person,600
